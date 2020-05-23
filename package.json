@@ -1,0 +1,11 @@
+{
+  "name": "movies-and-shows-bot",
+  "version": "1.0.0",
+  "description": "A Simple Twitter Bot that replies to tweets with suggestions of a movie or a tv show based on the user query.",
+  "main": "twitterBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj Chandak",
+  "license": "ISC"
+}
