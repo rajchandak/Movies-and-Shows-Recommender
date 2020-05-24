@@ -9,7 +9,9 @@
   "author": "Raj Chandak",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
     "dotenv": "^8.2.0",
+    "lodash": "^4.17.15",
     "twit": "^2.2.11"
   }
 }
